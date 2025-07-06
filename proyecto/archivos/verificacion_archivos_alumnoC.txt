@@ -1,0 +1,26 @@
+===== VERIFICACION DE ARCHIVOS - Carrazana C =====
+Estructura de directorios creada:
+/mnt/almacenamiento_carrazanaC
+/mnt/almacenamiento_carrazanaC/respaldos
+/mnt/almacenamiento_carrazanaC/temporal
+/mnt/almacenamiento_carrazanaC/lost+found
+/mnt/almacenamiento_carrazanaC/proyectos
+/mnt/almacenamiento_carrazanaC/proyectos/archivados
+/mnt/almacenamiento_carrazanaC/proyectos/activos
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/respaldos/documento_09.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/proyectos/archivados/documento_07.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:55 /mnt/almacenamiento_carrazanaC/proyectos/activos/documento_01.txt
+

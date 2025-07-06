@@ -1,0 +1,26 @@
+===== VERIFICACION DE ARCHIVOS - Carrazana B =====
+Estructura de directorios creada:
+/mnt/almacenamiento_carrazanaB
+/mnt/almacenamiento_carrazanaB/lost+found
+/mnt/almacenamiento_carrazanaB/temporal
+/mnt/almacenamiento_carrazanaB/respaldos
+/mnt/almacenamiento_carrazanaB/proyectos
+/mnt/almacenamiento_carrazanaB/proyectos/activos
+/mnt/almacenamiento_carrazanaB/proyectos/archivados
+Archivos en cada directorio:
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:43 /mnt/almacenamiento_carrazanaB/temporal/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:43 /mnt/almacenamiento_carrazanaB/temporal/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:43 /mnt/almacenamiento_carrazanaB/temporal/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:43 /mnt/almacenamiento_carrazanaB/temporal/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:43 /mnt/almacenamiento_carrazanaB/temporal/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_carrazanaB/respaldos/documento_10.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_carrazanaB/respaldos/documento_09.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_carrazanaB/proyectos/activos/documento_03.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_carrazanaB/proyectos/activos/documento_05.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_carrazanaB/proyectos/activos/documento_02.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_carrazanaB/proyectos/activos/documento_01.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:44 /mnt/almacenamiento_carrazanaB/proyectos/activos/documento_04.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:43 /mnt/almacenamiento_carrazanaB/proyectos/archivados/documento_06.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:43 /mnt/almacenamiento_carrazanaB/proyectos/archivados/documento_08.txt
+-rw-rw-r-- 1 vagrant vagrant 27 Jul  6 21:43 /mnt/almacenamiento_carrazanaB/proyectos/archivados/documento_07.txt
+
